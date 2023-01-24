@@ -1,6 +1,9 @@
 body {
     background-color: blueviolet;
 }
+strong{
+    color: red;
+}
 h1{
     color: yellow;
 }
